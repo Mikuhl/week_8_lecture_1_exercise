@@ -1,2 +1,2 @@
-var elements = document.getElementsByTagName("div");
-console.log(elements);
+var foos = document.querySelectorAll('div.foo')
+console.log(foos)

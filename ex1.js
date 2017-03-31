@@ -1,2 +1,2 @@
-var elements = document.getElementsByTagName('span');
-console.log(elements);
+var elements = document.getElementsByTagName('span')
+console.log(elements)
